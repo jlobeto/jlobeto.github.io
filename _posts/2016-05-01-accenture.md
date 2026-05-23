@@ -21,3 +21,4 @@ description: Accenture SRL
 * Bootstrap
 * Javascript
 * ASP .NET
+* Git

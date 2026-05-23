@@ -13,6 +13,7 @@ Contributed to gameplay systems, live content delivery, optimization efforts, an
 
 ## Main Tasks
 * Implement new features
+* SDK Integration
 * Mentored junior developers
 * CI/CD bugfixing & implementation
 * Live-ops operations
@@ -25,6 +26,7 @@ Contributed to gameplay systems, live content delivery, optimization efforts, an
 * Starling Framework and Feathers UI ([Using Starling Builder](https://starlingbuilder.github.io/)) 
 * Bash
 * Python
+* Git
 
 ## Project: Juice Jam
 
